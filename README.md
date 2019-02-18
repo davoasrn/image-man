@@ -13,6 +13,16 @@ Add to your composer.json in require section
 "asryan/image-man": "*"
 ```
 
+Then composer update
+
+Or use following command
+
+````
+composer require asryan/image-man
+````
+
+This will add asryan directory in your vendor directory
+
 
 ### Example
 
